@@ -1,6 +1,6 @@
 # Resume-
 
-My own website of everything. This repository contains the source files and documents for my personal professional profile and curriculum vitae.
+My own website. This repository contains the source files and documents for my personal professional profile and curriculum vitae.
 
 ## Repository Contents
 
